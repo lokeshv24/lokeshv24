@@ -62,7 +62,6 @@ Implementing Visual Question Answering and Image Caption Generation models to en
 ## 🌱 Fun Facts:
 
 - 🎨 I love exploring creative AI solutions.
-- 🌍 I'm in a long-distance relationship with my amazing partner, **Sarika** ❤️.
 - 📚 I enjoy sharing knowledge and collaborating with fellow developers.
 
 ---
