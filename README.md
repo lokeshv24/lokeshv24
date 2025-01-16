@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm an enthusiastic **Machine Learning Engineer** 
 
 - 🔭 **Current Projects:**
   - [Advanced Contextual Text Generation Using Transformer Models](#)
-  - ML Engineer Task: US Road Accidents Analysis and Prediction
+  -  US Road Accidents Analysis and Prediction
   - Visual Question Answering (VQA), Sentiment Analysis, and Image Caption Generation
 
 - 🌱 **Skills & Interests:**
-  - Programming Languages: Python, Java, SQL
+  - Programming Languages: Python, R, SQL
   - Machine Learning: Scikit-Learn, TensorFlow, PyTorch
   - NLP: Hugging Face Transformers, OpenAI API
   - Tools & Platforms: Docker, Kubernetes, Jenkins, GitHub Actions
